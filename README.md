@@ -1,6 +1,7 @@
 # Tweets2GPT
-Describe the project ...
 
+
+# Authors
 
 
 ## How to use
