@@ -1,0 +1,23 @@
+- Date Created: 2019-09-29
+- Topic: Communication and Information
+- Count of complaints for this topic: 4
+- Summary: Several passengers complained about a lack of information provided by train staff during disruptions and delays.
+- Suggestion: Improve communication with passengers by ensuring train staff have accurate and up-to-date information about disruptions and delays. Train staff should make regular announcements to keep passengers informed about the situation and any changes to their journey. Provide clear and timely updates through social media platforms and station announcement boards.
+
+- Date Created: 2019-09-29
+- Topic: Train Conditions
+- Count of complaints for this topic: 1
+- Summary: One passenger complained about the absence of a functioning toilet on the train.
+- Suggestion: Conduct regular checks and maintenance of train facilities, including toilets, to ensure they are in proper working condition. Implement protocols to promptly address any malfunctions or issues with facilities on trains.
+
+- Date Created: 2019-09-29
+- Topic: Service and Staff Conduct
+- Count of complaints for this topic: 3
+- Summary: Passengers complained about the staff's lack of information, unapologetic attitude, and failure to open doors for passengers at stops.
+- Suggestion: Provide thorough training to staff members on customer service, including clear communication and empathy towards passengers. Address issues with unapologetic behavior and remind staff of the importance of assisting passengers with timely information and opening doors promptly at stops.
+
+- Date Created: 2019-09-29
+- Topic: Other
+- Count of complaints for this topic: 3
+- Summary: Passengers expressed frustration with sudden service changes, cancellations, and the lack of coordination between train companies.
+- Suggestion: Improve coordination between train companies to minimize sudden service changes and provide coordinated replacement options in case of cancellations. Enhance communication channels between Eurostar and Thameslink to ensure passengers have up-to-date information regarding delays or changes affecting their journeys.

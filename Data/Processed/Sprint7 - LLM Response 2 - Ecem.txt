@@ -1,0 +1,29 @@
+- Date Created: 2019-09-29
+- Topic: Communication and Information
+- Count of complaints for this topic: 3
+- Summary: Passengers complained about the lack of communication and information provided by train staff during delays and disruptions.
+- Suggestion: Train staff should improve their communication skills and provide timely updates to passengers during delays and disruptions. Clear announcements and regular updates should be made to keep passengers informed.
+
+- Date Created: 2019-09-29
+- Topic: Station Facilities
+- Count of complaints for this topic: 1
+- Summary: A passenger complained about the lack of toilet facilities on a train for over an hour.
+- Suggestion: Train operators should ensure that all trains have functioning toilet facilities at all times. If there is a malfunction, alternative arrangements should be made to provide passengers with access to toilets.
+
+- Date Created: 2019-09-29
+- Topic: Staff Conduct and Service
+- Count of complaints for this topic: 2
+- Summary: Passengers complained about the unhelpful and uninformed behavior of staff during delays and disruptions.
+- Suggestion: Train staff should be trained to handle disruptions effectively and provide clear and helpful information to passengers. Staff should be more attentive, proactive, and ensure that passengers are informed and assisted appropriately.
+
+- Date Created: 2019-09-29
+- Topic: Train Conditions
+- Count of complaints for this topic: 1
+- Summary: A passenger complained about a train failing to open its doors at a station.
+- Suggestion: Train operators should ensure that all trains are properly maintained, including door mechanisms. Regular checks and maintenance should be conducted to prevent such issues.
+
+- Date Created: 2019-09-29
+- Topic: Other (Refund)
+- Count of complaints for this topic: 1
+- Summary: A passenger complained about the lack of compensation for inconveniences faced during a journey.
+- Suggestion: Train operators should have a fair and transparent compensation policy in place, ensuring that passengers are adequately compensated for inconveniences caused by delays, cancellations, or poor service. Clear and accessible information about the compensation process should be available to passengers.
